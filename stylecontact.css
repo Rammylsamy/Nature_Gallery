@@ -1,0 +1,78 @@
+#navbar{font-size: 30px;}
+
+
+.nav-item{font-size: 25px;}
+
+.nav-link{color: gray; }
+
+#nav1:hover{border-bottom: 4px solid rgb(17, 195, 162);}
+
+#nav2:hover{border-bottom: 4px solid rgb(220, 68, 13);}
+
+#nav3:hover{border-bottom: 4px solid rgb(220, 68, 13);}
+
+#nav4{border-bottom: 4px solid rgb(220, 68, 13);}
+
+
+
+#imagehead{height: 400px;}
+
+#input{width: 500px;
+height: 43px;}
+
+#imageh{position: relative;
+background-attachment: fixed;}
+
+
+.navbar{position: relative;}
+
+#h1{color:rgb(2, 151, 192);
+font-size: 50px; }
+
+
+
+#h3{font-size: 35px;
+    color:rgb(0, 163, 163);}
+
+    
+.btn-lg{font-size: 40px;
+    color: rgb(5, 161, 81);
+text-align: center;}
+
+
+
+#footer{background-color:lightgray}
+
+#h3{font-size: 35px;
+color:rgb(0, 163, 163);}
+
+#footerp{font-size: 25px;
+color: gray;}
+
+#footerpp{font-size: 25px;
+line-height: 50px;
+color: gray;}
+
+
+#span2{font-size: 25px;
+    padding:15px;
+background-color: rgb(250, 232, 232);
+border: 1px solid white;}
+
+#span2:hover{background-color:rgb(0, 163, 163) ;
+color: white;}
+
+.text-lg{font-size: 25px;}
+
+
+#icon{border: 1px solid lightgrey;
+font-size: 35px;
+background-color: lightgray;
+padding: 10px 10px;}
+
+#imageframe div #icon:hover{background-color: rgba(128, 0, 128, 0.775);}
+
+#h2{color: rgb(213, 33, 93);}
+
+
+#imageframe div img{height: 300px;}
